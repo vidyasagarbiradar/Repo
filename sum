@@ -10,9 +10,4 @@ int main() {
     printf("The sum of %d and %d is: %d\n", num1, num2, sum);
     return 0;
 }
-output=a+b
-#include <stdio.h>
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
+
